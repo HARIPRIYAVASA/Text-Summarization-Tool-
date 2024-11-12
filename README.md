@@ -195,24 +195,5 @@ See these tutorials on deploying a Streamlit app to various cloud services (from
 * [Host Streamlit on Azure](https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-service-1f09a2159743), by Richard Peterson   
 * [Host Streamlit on 21YunBox](https://www.21yunbox.com/docs/#/deploy-streamlit), by Toby Lei 
 
-## Citation
-
-When referencing this repository, please cite [this paper](https://arxiv.org/abs/2104.07605):
-
-```
-@misc{vig2021summvis,
-      title={SummVis: Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization}, 
-      author={Jesse Vig and Wojciech Kry{\'s}ci{\'n}ski and Karan Goel and Nazneen Fatema Rajani},
-      year={2021},
-      eprint={2104.07605},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2104.07605}
-}
-```
-
-## Acknowledgements
-
-We thank [Michael Correll](http://correll.io) for his valuable feedback.
 
 
